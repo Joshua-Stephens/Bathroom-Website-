@@ -1,0 +1,61 @@
+h1{
+  text-align: left;
+  font-variant: small-caps;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+
+body{
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: powderblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav{
+  text-align: right;
+  margin: auto;
+  padding: 10px;
+  overflow: hidden;
+  background-color: lightslategrey;
+}
+
+footer{
+  text-align: center;
+}
+
+nav a:hover {
+background-color: black;
+}
+    
+nav a {
+ color: white;
+ padding: 14px 16px;
+ text-decoration: none;
+} 
+#CFheader{
+  min-width: 100%;
+}            
+#form{
+max-width: 1100px;
+margin-left: auto;
+margin-right: auto;
+padding: 50px;
+}            
+.webmail{
+text-align: center;    
+}
+            
+.web{
+  text-align: center;
+  padding-right: 50px;
+}
+            
+.pbottom{
+  padding-bottom: 10px;
+}
+
+            
+                 
+
